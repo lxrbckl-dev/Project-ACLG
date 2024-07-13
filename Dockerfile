@@ -11,4 +11,4 @@ RUN pip install -r requirements.txt
 EXPOSE ${PORT}
 
 # run dash application
-CMD ["python3", "main.py"]
+CMD ["python3", "app.py"]

@@ -2,8 +2,8 @@
 FROM python:3.8-slim
 
 # referencing docker compose (find wiki) #
-ENV PORT ${PORT}
-ENV HOST ${HOST}
+ENV port ${port}
+ENV port ${host}
 
 WORKDIR /app
 COPY . .

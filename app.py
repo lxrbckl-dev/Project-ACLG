@@ -9,8 +9,8 @@ from source.configuration import (application, server)
 
 if (__name__ == '__main__'):
    
-   host = environ.get('host')
-   port = environ.get('port')
+   host = environ.get('HOST')
+   port = environ.get('PORT')
       
    objLayout = layout()
    objCallbacks = callbacks()

@@ -1,4 +1,4 @@
-# [Project ACLG](https://github.com/lxRbckl/Project-ACLG/wiki/V1):
+# Project ACLG
 > Automated Cover Letter/Resume Generator. V1. Spring 2024. Discontinued.
 
 ---

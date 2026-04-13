@@ -4,7 +4,7 @@ from ..backend.build_letter import buildLetter
 from ..backend.generate_pdf import generatePDF
 
 from ..configuration import application
-from dash.dependencies import (Input, Output, State)
+from dash import Input, Output, State
 
 # >
 

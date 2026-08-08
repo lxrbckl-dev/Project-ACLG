@@ -46,7 +46,7 @@ pyobjc-framework-quartz==10.3 ; python_version >= "3.10" and python_version < "4
 pyperclip==1.8.2 ; python_version >= "3.10" and python_version < "4.0"
 pyrect==0.2.0 ; python_version >= "3.10" and python_version < "4.0"
 pyscreeze==0.1.30 ; python_version >= "3.10" and python_version < "4.0"
-pytest==7.4.4 ; python_version >= "3.10" and python_version < "4.0"
+pytest==9.0.3 ; python_version >= "3.10" and python_version < "4.0"
 python3-xlib==0.15 ; python_version >= "3.10" and python_version < "4.0" and platform_system == "Linux"
 pytweening==1.2.0 ; python_version >= "3.10" and python_version < "4.0"
 reportlab==4.2.0 ; python_version >= "3.10" and python_version < "4.0"
